@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/putch-page/static/css/main.a128cc5c.css",
+    "main.js": "/putch-page/static/js/main.762b5866.js",
+    "static/js/453.17c9f334.chunk.js": "/putch-page/static/js/453.17c9f334.chunk.js",
+    "static/media/main-service-sample.svg": "/putch-page/static/media/main-service-sample.4071a56ca04f8165591c311b0afe3670.svg",
+    "static/media/member-2.jpeg": "/putch-page/static/media/member-2.ae2b29c81cd6ad6d689d.jpeg",
+    "static/media/member-sample.svg": "/putch-page/static/media/member-sample.1c629b495fb3907f20673314c74c45e2.svg",
+    "static/media/member-1.jpeg": "/putch-page/static/media/member-1.2c9d4593a7df9f6e2295.jpeg",
+    "static/media/header-logo.svg": "/putch-page/static/media/header-logo.a00b8d41d85131f1e933599520945ea8.svg",
+    "static/media/logo.svg": "/putch-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/putch-page/index.html",
+    "static/media/header-background.svg": "/putch-page/static/media/header-background.6163fb97b7cb522781e74ea4947b4205.svg",
+    "static/media/main-sample.svg": "/putch-page/static/media/main-sample.dd4ab703733eed26b18a8e5a20545d94.svg",
+    "main.a128cc5c.css.map": "/putch-page/static/css/main.a128cc5c.css.map",
+    "main.762b5866.js.map": "/putch-page/static/js/main.762b5866.js.map",
+    "453.17c9f334.chunk.js.map": "/putch-page/static/js/453.17c9f334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a128cc5c.css",
+    "static/js/main.762b5866.js"
+  ]
+}
