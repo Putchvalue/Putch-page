@@ -103,8 +103,8 @@ const Main = () => {
                                 <div className="pt-6 text-center">
                                     <p className="text-xl leading-normal font-bold mb-1">박혜민</p>
                                     <p className="text-gray-500 leading-relaxed font-light">디자이너</p>
-                                    <p className="text-gray-500 leading-relaxed font-light break-keep">홍익대학교
-                                        디자인컨버전스학부</p>
+                                    <p className="text-gray-500 leading-relaxed font-light break-keep">홍익대학교 </p>
+                                    <p className="text-gray-500 leading-relaxed font-light break-keep">디자인컨버전스학부</p>
                                     <p className="text-gray-500 leading-relaxed font-light break-keep">"미래를 그리는 디자이너"</p>
                                 </div>
                             </div>
