@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/putch-page/static/css/main.bd44b703.css",
-    "main.js": "/putch-page/static/js/main.1e8f985c.js",
+    "main.js": "/putch-page/static/js/main.492448f5.js",
     "static/js/453.17c9f334.chunk.js": "/putch-page/static/js/453.17c9f334.chunk.js",
     "static/media/main-service-sample.svg": "/putch-page/static/media/main-service-sample.4071a56ca04f8165591c311b0afe3670.svg",
     "static/media/member-2.jpeg": "/putch-page/static/media/member-2.c6d83426fbe321c96189.jpeg",
@@ -12,16 +12,15 @@
     "static/media/main-team-value.png": "/putch-page/static/media/main-team-value.10c56706b1b488a20d91.png",
     "static/media/member-1.jpeg": "/putch-page/static/media/member-1.2c9d4593a7df9f6e2295.jpeg",
     "static/media/header-logo.png": "/putch-page/static/media/header-logo.f3bbb471a81422da2c69.png",
-    "static/media/logo.svg": "/putch-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/putch-page/index.html",
     "static/media/header-background.svg": "/putch-page/static/media/header-background.6163fb97b7cb522781e74ea4947b4205.svg",
     "static/media/main-sample.svg": "/putch-page/static/media/main-sample.dd4ab703733eed26b18a8e5a20545d94.svg",
     "main.bd44b703.css.map": "/putch-page/static/css/main.bd44b703.css.map",
-    "main.1e8f985c.js.map": "/putch-page/static/js/main.1e8f985c.js.map",
+    "main.492448f5.js.map": "/putch-page/static/js/main.492448f5.js.map",
     "453.17c9f334.chunk.js.map": "/putch-page/static/js/453.17c9f334.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd44b703.css",
-    "static/js/main.1e8f985c.js"
+    "static/js/main.492448f5.js"
   ]
 }
