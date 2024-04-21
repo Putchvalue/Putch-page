@@ -1,16 +1,16 @@
 import HeaderBackground from '../assets/header-background.svg';
-import HeaderLogo from '../assets/header-logo.svg';
+import HeaderLogo from '../assets/header-logo.png';
 import {Link} from "react-scroll";
 
 const Header = () => {
     return (
-        <header className="fixed w-full items-center">
+        <header className="fixed w-full z-50">
             <nav>
                 <div className="">
                     <div className="flex items-center justify-between w-full">
-                        <img className="absolute w-full" src={HeaderBackground} alt="Header Background"/>
-                        <div className="flex items-center pl-6">
-                            <img className="z-10 pt-3" src={HeaderLogo} alt="App Logo"/>
+                        <img className="absolute w-full min-w-[900px]" src={HeaderBackground} alt="Header Background"/>
+                        <div className="flex items-center pl-6 pt-3">
+                            <img className="h-16 z-10" src={HeaderLogo} alt="App Logo"/>
                         </div>
                         <div className="flex flex-row z-10 p-6">
                             <button
