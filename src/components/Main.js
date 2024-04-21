@@ -104,7 +104,7 @@ const Main = () => {
                                     <p className="text-xl leading-normal font-bold mb-1">박혜민</p>
                                     <p className="text-gray-500 leading-relaxed font-light">디자이너</p>
                                     <p className="text-gray-500 leading-relaxed font-light break-keep">홍익대학교
-                                        디자인컨버전스학과</p>
+                                        디자인컨버전스학부</p>
                                     <p className="text-gray-500 leading-relaxed font-light break-keep">"미래를 그리는 디자이너"</p>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@ const Main = () => {
                                 </div>
                                 <div className="pt-6 text-center">
                                     <p className="text-xl leading-normal font-bold mb-1">김지인</p>
-                                    <p className="text-gray-500 leading-relaxed font-light">CTO</p>
+                                    <p className="text-gray-500 leading-relaxed font-light">개발 / 기획</p>
                                     <p className="text-gray-500 leading-relaxed font-light break-keep">서울대학교 컴퓨터공학과</p>
                                     <p className="text-gray-500 leading-relaxed font-light break-keep">"매칭의 새로운 미래를</p>
                                     <p className="text-gray-500 leading-relaxed font-light break-keep">코딩하는 CTO"</p>
@@ -138,9 +138,10 @@ const Main = () => {
                                 </div>
                                 <div className="pt-6 text-center">
                                     <p className="text-xl leading-normal font-bold mb-1">곽용우</p>
-                                    <p className="text-gray-500 leading-relaxed font-light">개발자</p>
+                                    <p className="text-gray-500 leading-relaxed font-light">개발</p>
                                     <p className="text-gray-500 leading-relaxed font-light">한양대학교</p>
                                     <p className="text-gray-500 leading-relaxed font-light">컴퓨터소프트웨어학부</p>
+                                    <p className="text-gray-500 leading-relaxed font-light">"아이디어를 실현하는 개발자"</p>
                                 </div>
                             </div>
                         </div>
